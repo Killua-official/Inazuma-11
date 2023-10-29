@@ -1,0 +1,53 @@
+body {
+    font-family: Bahnschrift, Helvetica, sans-serif;
+    background-color: #D2E7CB;
+}
+
+.video-container iframe {
+    width: 100%;
+    height: 200px;
+    border-radius: 3px;
+}
+
+h1, h3 {
+    color: #1F7522;
+}
+
+h3:hover {
+    color: #ED9807;
+    border-bottom: 3px solid #ED9807;
+    cursor: pointer;
+}
+
+.heading {
+    font-family: TESLA, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    color: #1F7522;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    background: #AFD59F;
+}
+
+.heading span {
+    font-family: TESLA, Helvetica, sans-serif;
+    color: #EA8D10;
+}
+
+.container .heading {
+    font-family: TESLA, Helvetica, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+@media screen and (max-width: 768px) {
+    .heading {
+        font-size: 2rem;
+        margin: 1rem 0;
+    }
+
+    .video-container iframe {
+        width: 100%;
+        height: 250px;
+    }
+}

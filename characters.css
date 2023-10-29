@@ -1,0 +1,41 @@
+.scale-up:hover {
+    transform: scale(1.03);
+}
+
+.heading {
+    font-family: TESLA, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    color: #1F7522;
+    padding: 1rem;
+    margin: 2rem 9.5%;
+    background: #AFD59F;
+}
+
+.heading span {
+    font-family: TESLA, Helvetica, sans-serif;
+    color: #EA8D10;
+}
+
+@media screen and (max-width: 768px) {
+    .heading {
+        font-size: 2rem;
+        margin: 1rem 5%;
+    }
+}
+
+body {
+    font-family: Bahnschrift, Helvetica, sans-serif;
+    background-color: #D2E7CB;
+}
+
+.character-title {
+    color: #1F7522;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card-body {
+    background-color: #AFD59F;
+}
