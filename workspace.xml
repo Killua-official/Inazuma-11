@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="358de3f3-f5f1-4543-83d3-dc83021e5492" name="Changes" comment="gfg">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wireframe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Дизайн без названия (1).jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2WOMjVeBGXTDS6ueKHu20oCDwLM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aruzhan/WebstormProjects/Inazuma 11&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Inazuma 11/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="358de3f3-f5f1-4543-83d3-dc83021e5492" name="Changes" comment="" />
+      <created>1696599307209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696599307209</updated>
+      <workItem from="1696599308192" duration="18108000" />
+      <workItem from="1696642785422" duration="19814000" />
+      <workItem from="1696776044103" duration="7512000" />
+      <workItem from="1696789539309" duration="1159000" />
+      <workItem from="1696846787989" duration="20353000" />
+      <workItem from="1696921585637" duration="4131000" />
+      <workItem from="1696940209555" duration="1188000" />
+      <workItem from="1697042656242" duration="278000" />
+      <workItem from="1697097483713" duration="1312000" />
+      <workItem from="1697105733320" duration="2222000" />
+      <workItem from="1697187435922" duration="2010000" />
+      <workItem from="1697279444859" duration="594000" />
+      <workItem from="1698248788002" duration="11114000" />
+      <workItem from="1698300590793" duration="28849000" />
+      <workItem from="1698346178734" duration="927000" />
+      <workItem from="1698378284762" duration="4327000" />
+      <workItem from="1698393631539" duration="600000" />
+      <workItem from="1698428592984" duration="9015000" />
+      <workItem from="1698440378307" duration="410000" />
+      <workItem from="1698486963563" duration="2318000" />
+      <workItem from="1698491751703" duration="14372000" />
+      <workItem from="1698652592685" duration="719000" />
+      <workItem from="1698736599663" duration="681000" />
+      <workItem from="1698754520193" duration="9457000" />
+      <workItem from="1698765073598" duration="897000" />
+      <workItem from="1698820603543" duration="605000" />
+      <workItem from="1698920367948" duration="671000" />
+    </task>
+    <task id="LOCAL-00001" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1698311730561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698311730561</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1698319002542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698319002542</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1698319020261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698319020261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1698437741622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698437741622</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1698762626580</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698762626580</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gfg" />
+    <option name="LAST_COMMIT_MESSAGE" value="gfg" />
+  </component>
+</project>
